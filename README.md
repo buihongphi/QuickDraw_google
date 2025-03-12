@@ -5,7 +5,11 @@ Run an app which you could draw in front of a camera (If you use laptop, your we
 Run an app which you could draw on a canvas
 # Mediapipe app
 To use this app, you can use the hand that appears in front of the camera. When you're ready to draw, you hold your hand with one finger. The tip of that finger will be the tip of the pen. When you're done, you can open your hand to see the results. Want to stop drawing you press ESC.
-![Demo]([https://i.imgur.com/yourgif.gif](https://imgur.com/a/ZiNhWuU))
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVhYWZwZ2V6bWpuaXpmNnprNnJxeGt3ZndsZXhiYjE1MDl6dWd3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m58x5h4QwBfOczB70t/giphy.gif" width="600"/>
+</p>
+
+
 # Bộ dữ liệu 
 The dataset used for training my model could be found at [Quick Draw dataset] https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn. Here I only picked up 20 files for 20 categories
 # Training 
